@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my workshop paper ["Robust Bird's Eye View Segmentation by Adapting DINOv2"](https://www.arxiv.org/pdf/2409.10228) at [VCAD](https://vcad-workshop.github.io/) at ECCV 2024!
+I presented my workshop paper ["Robust Bird's Eye View Segmentation by Adapting DINOv2"](https://www.arxiv.org/pdf/2409.10228) at [VCAD](https://vcad-workshop.github.io/), ECCV 2024!

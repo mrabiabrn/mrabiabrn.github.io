@@ -15,13 +15,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Master's Student working on computer vision at [Koç University](https://www.ku.edu.tr/en/). I obtained my Bachelor's degree at Computer Engineering from [Boğaziçi University](https://bogazici.edu.tr/en-US/Index).  
-
-I am a Master’s student at [Koç University](https://www.ku.edu.tr/en/), working on computer vision. I am also a research fellow at the Koç Üniversitesi & İş Bankası Artificial Intelligence Center ([KUIS AI](https://ai.ku.edu.tr/)), under the supervision of [Dr. Fatma Güney](https://mysite.ku.edu.tr/fguney/).
+I am a Master’s student at [Koç University](https://www.ku.edu.tr/en/), working on computer vision. I am also a research fellow at the Koç Üniversitesi & İş Bankası Artificial Intelligence Center        
+([KUIS AI](https://ai.ku.edu.tr/)), under the supervision of [Dr. Fatma Güney](https://mysite.ku.edu.tr/fguney/).
 
 I earned my Bachelor’s degree in Computer Engineering from [Boğaziçi University](https://bogazici.edu.tr/en-US/Index).
 
-My research experience includes perception and representation learning for autonomous driving, with a focus on Bird's Eye View (BEV) perception models. Recently, I have been interested in utilizing generative models to improve the generalizability of perception models.
+My research experience includes perception and representation learning for autonomous driving, with a focus on Bird's Eye View (BEV) perception models. 
+
+Recently, I have been interested in utilizing generative models to improve the generalizability of perception models.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
