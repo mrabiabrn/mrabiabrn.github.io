@@ -15,10 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master’s student at [Koç University](https://www.ku.edu.tr/en/), working on computer vision. I am also a research fellow at the Koç Üniversitesi & İş Bankası Artificial Intelligence Center        
-([KUIS AI](https://ai.ku.edu.tr/)), under the supervision of [Dr. Fatma Güney](https://mysite.ku.edu.tr/fguney/).
+I am a Master’s student at [Koç University](https://www.ku.edu.tr/en/), working on computer vision. \
+I am also a research fellow at the Koç University & İş Bankası Artificial Intelligence Center ([KUIS AI](https://ai.ku.edu.tr/)), under the supervision of [Dr. Fatma Güney](https://mysite.ku.edu.tr/fguney/).
 
-I earned my Bachelor’s degree in Computer Engineering from [Boğaziçi University](https://bogazici.edu.tr/en-US/Index).
+I earned my Bachelor’s degree in Computer Engineering with high honor from \
+[Boğaziçi University](https://bogazici.edu.tr/en-US/Index).
 
 My research experience includes perception and representation learning for autonomous driving, with a focus on Bird's Eye View (BEV) perception models. 
 
