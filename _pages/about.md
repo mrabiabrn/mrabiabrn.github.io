@@ -12,7 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons at the bottom of the page
 ---
 
 I am a second-year PhD student at [Purdue University](https://www.purdue.edu/), advised by [Dr. Sotiris Nousias](https://sotirisnousias.com/). \
