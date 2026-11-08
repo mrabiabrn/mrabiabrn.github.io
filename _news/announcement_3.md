@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [Purdue University](https://www.purdue.edu/) as a PhD student, advised by [Dr. Sotiris Nousias](https://sotirisnousias.com/)!
+I joined Purdue University as a PhD student!
