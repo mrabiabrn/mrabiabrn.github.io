@@ -18,8 +18,7 @@ social: true # includes social icons at the bottom of the page
 I am a second-year PhD student at [Purdue University](https://www.purdue.edu/), advised by [Dr. Sotiris Nousias](https://sotirisnousias.com/). \
 My current research interests are 3D vision and imaging in extreme conditions, such as low light and high speed.
 
-Previously, I was an MSc student at [Koç University](https://www.ku.edu.tr/en/) under the supervision of [Dr. Fatma Güney](https://mysite.ku.edu.tr/fguney/), where I worked on perception and representation learning for autonomous driving. \
-I received my Bachelor’s degree from [Boğaziçi University](https://bogazici.edu.tr/en-US/Index).
+Previously, I was an MSc student at [Koç University](https://www.ku.edu.tr/en/) under the supervision of [Dr. Fatma Güney](https://mysite.ku.edu.tr/fguney/), where I worked on perception and representation learning for autonomous driving.
 
 Outside of research, I love cats, traveling for nature, and knitting!
 
